@@ -1,2 +1,3 @@
 # hello-world
-firstrepo
+first repository
+init biit timiit 
